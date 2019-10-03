@@ -143,11 +143,5 @@
                 <artifactId>druid</artifactId>
                 <version>1.0.16</version>
             </dependency>
-            <dependency>
-                <groupId>org.springframework</groupId>
-                <artifactId>spring-test</artifactId>
-                <version>4.1.7.RELEASE</version>
-                <scope>test</scope>
-            </dependency>
         </dependencies>
 </project>
